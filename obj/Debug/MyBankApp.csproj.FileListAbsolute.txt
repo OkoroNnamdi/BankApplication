@@ -1,0 +1,11 @@
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\bin\Debug\MyBankApp.exe.config
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\bin\Debug\MyBankApp.exe
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\bin\Debug\MyBankApp.pdb
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\obj\Debug\MyBankApp.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\obj\Debug\MyBankApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\obj\Debug\MyBankApp.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\obj\Debug\MyBankApp.exe
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\obj\Debug\MyBankApp.pdb
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\bin\Debug\ConsoleTables.dll
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\bin\Debug\ConsoleTables.pdb
+C:\Users\solan\Desktop\Nnamdi\MyBankApp\obj\Debug\MyBankApp.csproj.CopyComplete
